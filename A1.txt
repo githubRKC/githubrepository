@@ -1,0 +1,1 @@
+virtual machine is a software implementation of a computer machine.it creates an isolated duplication of real computer and allows us to perform operations as we perform operations in avreal computer.
